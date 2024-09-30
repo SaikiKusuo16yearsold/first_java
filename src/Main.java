@@ -13,6 +13,6 @@ public class Main {
         System.out.println("Маша теперь получает " + newPayForMaria + " рублей. Годовой доход вырос на " + differenceInSalaryMaria +  " рублей");
         System.out.println("Денис теперь получает " + newPayForDenis + " рублей. Годовой доход вырос на " + differenceInSalaryDenis +  " рублей");
         System.out.println("Кристина теперь получает " + newPayForCristina + " рублей. Годовой доход вырос на " + differenceInSalaryCristina +  " рублей");
-
+        System.out.println("Привет мир");
     }
 }
