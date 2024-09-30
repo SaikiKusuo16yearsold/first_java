@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Кристина теперь получает " + newPayForCristina + " рублей. Годовой доход вырос на " + differenceInSalaryCristina +  " рублей");
         System.out.println("Привет мир");
         System.out.println("Hello world!");
+        System.out.println("Новый изменения");
     }
 }
